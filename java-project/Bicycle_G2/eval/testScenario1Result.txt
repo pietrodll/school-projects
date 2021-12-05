@@ -1,0 +1,122 @@
+Network: myVelib
+List of stations:
+Station: id:10
+	Position: x=0.662 y=0.803
+Slots: 5
+	id:10000	Online	Occupied	Bike id:68	Type: Mechanic
+	id:10001	Online	Occupied	Bike id:69	Type: Electric
+	id:10002	Online	Free
+	id:10003	Online	Free
+	id:10004	Online	Free
+Station: id:11
+	Position: x=0.897 y=1.341
+Slots: 5
+	id:11000	Online	Occupied	Bike id:70	Type: Mechanic
+	id:11001	Online	Occupied	Bike id:71	Type: Electric
+	id:11002	Online	Free
+	id:11003	Online	Free
+	id:11004	Online	Free
+Station: id:12
+	Position: x=1.44 y=0.515
+Slots: 5
+	id:12000	Online	Occupied	Bike id:72	Type: Mechanic
+	id:12001	Online	Occupied	Bike id:73	Type: Electric
+	id:12002	Online	Free
+	id:12003	Online	Free
+	id:12004	Online	Free
+Station: id:13
+	Position: x=1.232 y=1.417
+Slots: 5
+	id:13000	Online	Occupied	Bike id:74	Type: Mechanic
+	id:13001	Online	Occupied	Bike id:75	Type: Electric
+	id:13002	Online	Free
+	id:13003	Online	Free
+	id:13004	Online	Free
+Station: id:14
+	Position: x=0.5 y=2.5
+Slots: 5
+	id:14000	Online	Occupied	Bike id:76	Type: Mechanic
+	id:14001	Online	Occupied	Bike id:77	Type: Electric
+	id:14002	Online	Free
+	id:14003	Online	Free
+	id:14004	Online	Free
+Station: id:15
+	Position: x=1.5 y=2.5
+Slots: 5
+	id:15000	Online	Occupied	Bike id:78	Type: Mechanic
+	id:15001	Online	Occupied	Bike id:79	Type: Electric
+	id:15002	Online	Free
+	id:15003	Online	Free
+	id:15004	Online	Free
+Station: id:16
+	Position: x=0.5 y=3.5
+Slots: 5
+	id:16000	Online	Occupied	Bike id:80	Type: Mechanic
+	id:16001	Online	Occupied	Bike id:81	Type: Electric
+	id:16002	Online	Free
+	id:16003	Online	Free
+	id:16004	Online	Free
+Station: id:17
+	Position: x=1.5 y=3.5
+Slots: 5
+	id:17000	Online	Occupied	Bike id:82	Type: Mechanic
+	id:17001	Online	Occupied	Bike id:83	Type: Electric
+	id:17002	Online	Free
+	id:17003	Online	Free
+	id:17004	Online	Free
+List of cards:
+List of users:
+
+User added successfully.
+Bike successfully rented at station10 by user0.
+Bike successfully returned at station10 by user0. The price of the ride is 0,00 euros.
+User: id:0
+	Name: Pietro
+	Total amount paid: 0.0 euros
+	Total number of rides: 1
+	Total ride time: 60 minutes
+	Total credit earned: 0 minutes
+
+Sorted stations of network myVelib according to strategy sorting.station.MoreUsedStation@66a29884
+Station: id:10
+	Total rents: 1
+	Total returns: 1
+	Total operations: 2
+	Occupation rate: 0.0
+Station: id:17
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:16
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:15
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:14
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:13
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:12
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:11
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+
+Test completed

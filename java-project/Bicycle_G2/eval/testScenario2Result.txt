@@ -1,0 +1,169 @@
+User added successfully.
+User added successfully.
+User added successfully.
+Bike successfully rented at station10 by user0.
+Bike successfully rented at station10 by user1.
+Bike successfully rented at station11 by user2.
+Station: id:10
+	Position: x=0.348 y=0.812
+Slots: 5
+	id:10000	Online	Free
+	id:10001	Online	Free
+	id:10002	Online	Free
+	id:10003	Online	Free
+	id:10004	Online	Free
+
+Station: id:11
+	Position: x=0.017 y=1.66
+Slots: 5
+	id:11000	Online	Free
+	id:11001	Online	Occupied	Bike id:75	Type: Electric
+	id:11002	Online	Free
+	id:11003	Online	Free
+	id:11004	Online	Free
+
+Bike successfully returned at station12 by user0. The price of the ride is 0,50 euros.
+Bike successfully returned at station17 by user1. The price of the ride is 0,00 euros.
+Bike successfully returned at station13 by user2. The price of the ride is 1,50 euros.
+Station: id:10
+	Position: x=0.348 y=0.812
+Slots: 5
+	id:10000	Online	Free
+	id:10001	Online	Free
+	id:10002	Online	Free
+	id:10003	Online	Free
+	id:10004	Online	Free
+
+Station: id:11
+	Position: x=0.017 y=1.66
+Slots: 5
+	id:11000	Online	Free
+	id:11001	Online	Occupied	Bike id:75	Type: Electric
+	id:11002	Online	Free
+	id:11003	Online	Free
+	id:11004	Online	Free
+
+Station: id:12
+	Position: x=1.495 y=0.405
+Slots: 5
+	id:12000	Online	Occupied	Bike id:76	Type: Mechanic
+	id:12001	Online	Occupied	Bike id:77	Type: Electric
+	id:12002	Online	Occupied	Bike id:72	Type: Mechanic
+	id:12003	Online	Free
+	id:12004	Online	Free
+
+Station: id:13
+	Position: x=1.338 y=1.635
+Slots: 5
+	id:13000	Online	Occupied	Bike id:78	Type: Mechanic
+	id:13001	Online	Occupied	Bike id:79	Type: Electric
+	id:13002	Online	Occupied	Bike id:74	Type: Mechanic
+	id:13003	Online	Free
+	id:13004	Online	Free
+
+User: id:0
+	Name: Pietro
+	Total amount paid: 0.5 euros
+	Total number of rides: 1
+	Total ride time: 90 minutes
+	Total credit earned: 0 minutes
+
+User: id:1
+	Name: Chloe
+	Total amount paid: 0.0 euros
+	Total number of rides: 1
+	Total ride time: 90 minutes
+	Total credit earned: 5 minutes
+
+User: id:2
+	Name: Paolo
+	Total amount paid: 1.5 euros
+	Total number of rides: 1
+	Total ride time: 90 minutes
+	Total credit earned: 0 minutes
+
+Sorted stations of network myVelib according to strategy More Used
+Station: id:10
+	Total rents: 2
+	Total returns: 0
+	Total operations: 2
+	Occupation rate: 0.0
+Station: id:17
+	Total rents: 0
+	Total returns: 1
+	Total operations: 1
+	Occupation rate: 0.0
+Station: id:13
+	Total rents: 0
+	Total returns: 1
+	Total operations: 1
+	Occupation rate: 0.0
+Station: id:12
+	Total rents: 0
+	Total returns: 1
+	Total operations: 1
+	Occupation rate: 0.0
+Station: id:11
+	Total rents: 1
+	Total returns: 0
+	Total operations: 1
+	Occupation rate: 0.0
+Station: id:16
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:15
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:14
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+
+Sorted stations of network myVelib according to strategy Least Occupied
+Station: id:10
+	Total rents: 2
+	Total returns: 0
+	Total operations: 2
+	Occupation rate: 0.0
+Station: id:11
+	Total rents: 1
+	Total returns: 0
+	Total operations: 1
+	Occupation rate: 0.0
+Station: id:12
+	Total rents: 0
+	Total returns: 1
+	Total operations: 1
+	Occupation rate: 0.0
+Station: id:13
+	Total rents: 0
+	Total returns: 1
+	Total operations: 1
+	Occupation rate: 0.0
+Station: id:14
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:15
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:16
+	Total rents: 0
+	Total returns: 0
+	Total operations: 0
+	Occupation rate: 0.0
+Station: id:17
+	Total rents: 0
+	Total returns: 1
+	Total operations: 1
+	Occupation rate: 0.0
+
+Test completed

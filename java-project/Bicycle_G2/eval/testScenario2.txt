@@ -1,0 +1,20 @@
+addUser <Pietro> <vlibre> <myVelib>
+addUser <Chloe> <vmax> <myVelib>
+addUser <Paolo> <credit> <myVelib>
+rentBike <0> <10> <2019-02-02 12:35> <myVelib>
+rentBike <1> <10> <2019-02-02 12:35> <myVelib>
+rentBike <2> <11> <2019-02-02 12:35> <myVelib>
+displayStation <myVelib> <10>
+displayStation <myVelib> <11>
+returnBike <0> <12> <2019-02-02 14:05> <myVelib>
+returnBike <1> <17> <2019-02-02 14:05> <myVelib>
+returnBike <2> <13> <2019-02-02 14:05> <myVelib>
+displayStation <myVelib> <10>
+displayStation <myVelib> <11>
+displayStation <myVelib> <12>
+displayStation <myVelib> <13>
+displayUser <myVelib> <0>
+displayUser <myVelib> <1>
+displayUser <myVelib> <2>
+sortStation <myVelib> <more-used> <2019-01-01 00:00> <2019-04-04 12:00>
+sortStation <myVelib> <least-occupied> <2019-01-01 00:00> <2019-04-04 12:00>

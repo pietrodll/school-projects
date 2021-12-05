@@ -1,0 +1,9 @@
+display <myVelib>
+addUser <Pietro> <vlibre> <myVelib>
+rentBike <0> <10> <2019-02-06 12:35> <myVelib>
+returnBike <0> <10> <2019-02-06 13:35> <myVelib>
+displayUser <myVelib> <0>
+slotOffline <myVelib> <10001> <2019-02-04 22:22>
+slotOffline <myVelib> <10002> <2019-02-04 22:22>
+slotOffline <myVelib> <10003> <2019-02-04 22:22>
+displayStation <myVelib> <10>
